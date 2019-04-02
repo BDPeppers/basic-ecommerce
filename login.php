@@ -24,7 +24,7 @@
     <div class="btns">
         <div class="btn">
             <!-- link to product page -->
-            <a href="productpage.html">Sign In</a>
+            <a href="productpage.php">Sign In</a>
         </div>
     </div>
 </body>
